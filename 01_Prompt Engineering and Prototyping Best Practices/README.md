@@ -3,13 +3,17 @@
      height="auto"/>
 </p>
 
-<h1 align="center" id="heading">Session 1: Introduction and Vibe Check</h1>
+<h1 align="center" id="heading">Session 1: Prompt Engineering, LLM APIs, and Prototyping Best Practices</h1>
 
 ### [Quicklinks](https://github.com/AI-Maker-Space/AIE5/00_AIM_Quicklinks)
 
 | 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
+<<<<<<< HEAD
 | [Session 1: Pre-Work](https://www.notion.so/The-AI-Engineering-Bootcamp-Cohort-5-Home-Page-175cd547af3d80969151ebc75bb1d94a?pvs=4#175cd547af3d8159907cf0ac05eb9050)| [Session 1: Introduction and Vibe Check](https://www.notion.so/Session-1-Introduction-and-Vibe-Check-177cd547af3d804d9ec7c0266889f947) | [Recording](https://us02web.zoom.us/rec/share/pNtF3s7dsxOnsDxMALes9o1yPSc0PfHr8rS7aVZSsDKqA9RysEhfzEi57ahT0F_R.eOIPyhx8A9e58B57) (ub?4jfUD) | [Session 1: Cohort Kickoff](https://www.canva.com/design/DAGcIeKKtHE/t9TVvikxC3EUetoqY1YoKA/edit?utm_content=DAGcIeKKtHE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Session 1: Introduction and Vibe Check](https://github.com/AI-Maker-Space/AIE5/tree/main/01_Prompt%20Engineering%20and%20Prototyping%20Best%20Practices)| [Session 1 Assignment: Vibe Check](https://forms.gle/4VVx9rGrK9gqcZ8S9)| [AIE5 Feedback 1/14](https://forms.gle/7nfaP5ngje3HDKjV9)
+=======
+| |  |  |  | You are here! |  |
+>>>>>>> 0b8d0d4 (Session 1)
 
 ### Assignment
 
@@ -62,4 +66,8 @@ In essence, it's a first look to ensure your system isn't experiencing catastrop
 
 ##### 🧑‍🤝‍🧑❓ Discussion Question #1:
 
+<<<<<<< HEAD
 What are some limitations of vibe checking as an evaluation tool?
+=======
+What are some limitations of vibe checking as an evaluation tool?
+>>>>>>> 0b8d0d4 (Session 1)
