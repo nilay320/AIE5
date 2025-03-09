@@ -9,11 +9,8 @@
 
 | 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-<<<<<<< HEAD
+
 | [Session 16: Pre-Work](https://www.notion.so/Session-16-Deploying-and-Operating-RAG-in-Production-189cd547af3d80bfb5d4fbd5dcf74699?pvs=4#1aecd547af3d80208a18e0bcb3a95c50)| [Session 16: Deploying and Operating RAG in Production](https://www.notion.so/Session-16-Deploying-and-Operating-RAG-in-Production-189cd547af3d80bfb5d4fbd5dcf74699) | [Recording](https://us02web.zoom.us/rec/share/-hIkx9NLIftJq6ms1wSU_dQb9OrEqrAyFkiv3IAQ5wRXjhKL55dSJGGW0ZQAwmck.HsK8jCAhrJ2WnbwW)  (?3pQAA1g)| [Session 16: LLM Ops: Deploying to & Operating in Production](https://www.canva.com/design/DAGg-IJ-Ezw/d2Bi3DBrOUr74odnIEtRqQ/edit?utm_content=DAGg-IJ-Ezw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | You Are Here!| [Session 16 Assignment: Deploying and Operating RAG in Production](https://forms.gle/wWjwSRjbcNRiR8cWA)| [AIE5 Feedback 3/6](https://forms.gle/CVwrtQLEfMNa4wAfA) |
-=======
-| [Session 16: Pre-Work](https://www.notion.so/Session-16-Deploying-and-Operating-RAG-in-Production-189cd547af3d80bfb5d4fbd5dcf74699?pvs=4#1aecd547af3d80208a18e0bcb3a95c50)| [Session 16: Deploying and Operating RAG in Production](https://www.notion.so/Session-16-Deploying-and-Operating-RAG-in-Production-189cd547af3d80bfb5d4fbd5dcf74699) | Coming Soon!| Coming Soon! |You Are Here!| Coming Soon! | [AIE5 Feedback 3/6](https://forms.gle/CVwrtQLEfMNa4wAfA) |
->>>>>>> 381f777 (Sesh 16)
 
 
 # Build 🏗️
